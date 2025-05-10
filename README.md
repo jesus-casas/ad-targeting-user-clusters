@@ -6,3 +6,14 @@ The dataset contains 1000 users called `synthetic social media users.csv`. Each 
 corresponds to a user and the last picture the user posted is available in the folder ”posted
 images” the name of the figures are ”imageX.jpg”, where X is the number
 corresponding to the user.
+
+## Steps Taken
+### Step 1: Exploring the Dataset
+
+### Step 2: Data Preprocessing
+
+### Step 3: Standardized
+
+### Step 4: Model using K-Means
+
+### Step 5: Evaluating and Visualizing the Clusters
