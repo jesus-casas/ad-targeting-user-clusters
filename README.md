@@ -8,7 +8,11 @@ images” the name of the figures are ”imageX.jpg”, where X is the number
 corresponding to the user.
 
 ## Steps Taken
-### Step 1: Exploring the Dataset
+### Step 1: Exploring the Dataset 
+- Inspected the structure of the dataset to analyze column types
+- Get the summary of the dataset to analyze distributions and potential missing values for all features 
+- Identify numeric columns (T/F for each column)
+- Identify categorical/text columns (character or factor)
 
 ### Step 2: Data Preprocessing
 
