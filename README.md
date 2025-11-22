@@ -34,3 +34,37 @@ Implemented the K-Means algorithm to partition users into 4 distinct clusters ba
 
 ### Step 5: Evaluation and Visualization
 Visualized the clusters using PCA (Principal Component Analysis) to interpret the results and understand the distinct traits of each user group.
+
+![Cluster Analysis](./images/cluster_analysis.png)
+
+### Characteristics of Each Cluster
+
+Based on the analysis of 1,000 synthetic users four distinct segments were identified:
+
+**Cluster 1: "The Power Users" (Young & Highly Active)**
+
+-   **Demographics:** Youngest group (Avg Age: ~25).
+-   **Behavior:** Extremely high engagement with ~60 hours/month active, ~30 posts, and ~1198 likes.
+-   **Tech:** Predominantly Mobile (iOS) users.
+-   **Social:** Highest social connectivity with ~447 friends.
+
+**Cluster 2: "The Casual Observers" (Older & Less Active)**
+
+-   **Demographics:** Oldest group (Avg Age: ~60).
+-   **Behavior:** Lowest engagement with only ~7 hours/month active and ~5 posts.
+-   **Tech:** Predominantly Desktop (Windows) users.
+-   **Social:** Lowest social connectivity with ~79 friends.
+
+**Cluster 3: "The Established Professionals" (Middle-Aged & Moderate)**
+
+-   **Demographics:** Middle-aged (Avg Age: ~40).
+-   **Behavior:** Moderate engagement (~19 hours/month).
+-   **Tech:** Predominantly Mobile (Android) users.
+-   **Loyalty:** Longest account history (Avg Account Age: ~10.3 years).
+
+**Cluster 4: "The Social Connectors" (Young Adults)**
+
+-   **Demographics:** Young adults (Avg Age: ~30).
+-   **Behavior:** High engagement (~41 hours/month), but less intense than Cluster 1.
+-   **Tech:** Predominantly Mobile (iOS) users.
+-   **Social:** Strong social network with ~308 friends.
