@@ -35,7 +35,7 @@ Implemented the K-Means algorithm to partition users into 4 distinct clusters ba
 ### Step 5: Evaluation and Visualization
 Visualized the clusters using PCA (Principal Component Analysis) to interpret the results and understand the distinct traits of each user group.
 
-![Cluster Analysis](./images/cluster_analysis.png)
+![Cluster Analysis](/assets/clusters-visualized-pca.png)
 
 ### Characteristics of Each Cluster
 
